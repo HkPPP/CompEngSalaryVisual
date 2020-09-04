@@ -1,6 +1,4 @@
-%%% Name: Hank Pham
-%%% Instructor: Prof Horan
-%%% Subject: Multivarible Calculus - MATH 2025
+
 %%% Type: Matlab Project
 %%% Title: Computer hardware engineers pay across the US
 
